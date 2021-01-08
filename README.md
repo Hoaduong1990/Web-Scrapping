@@ -1,7 +1,7 @@
 # Web-Scrapping
 The main aim of this project is web_scrapping.
 
-Data used under this analysis was scrapped from https://bookpage.com
+Data used under this analysis was scrapped from https://bookpage.com.
 100 pages of Fiction book were collected. Each observation is a book consisting of different attributes: title, author, publish date, price, review and image of book cover.
 
 Tech employed under this analysis:
